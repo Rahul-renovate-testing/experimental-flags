@@ -1,3 +1,3 @@
 {
-  "experimentalFlags": ["disableDockerHubTags", "execGpidHandle", "noMavenPomCheck", "nugetDownloadNupkgs", "rebasePaginationLinks", "repoCacheForceLocal", "suppressPreCommitWarning", "yarnProxy", "useOpenpgp"]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
 }
